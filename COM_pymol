@@ -1,0 +1,5 @@
+centerofmass
+pseudoatom tmp, color=black, pos=[   0.016,   0.021,   0.019]
+show spheres, tmp
+alter tmp, vdw=0.2
+rebulid
